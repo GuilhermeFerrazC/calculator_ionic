@@ -1,0 +1,7 @@
+{
+  "name": "calculadora2022ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
